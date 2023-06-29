@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-zinc-700 text-zinc-300">
-        <div className='flex flex-col border-2 border-green-500 h-screen'> 
+        <div className='flex flex-col border-2 border-green-500 h-[calc(100dvh)]'> 
           <TopNavigation/>
           <div className='flex border-2 border-blue-500 flex-1'>
             <SideNavigation/>
