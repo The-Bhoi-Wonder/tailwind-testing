@@ -1,0 +1,4 @@
+can do dynamic routing whenever you implement user data
+    user's id could be used to generate user specific pages
+    think about mflix and [movies].js
+
